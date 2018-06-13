@@ -1,2 +1,3 @@
 # neural-tagger-lemmatizer
-neural components for morphological tagging and lemmatization
+
+Morphological Tagging and Lemmatization with Neural Components
